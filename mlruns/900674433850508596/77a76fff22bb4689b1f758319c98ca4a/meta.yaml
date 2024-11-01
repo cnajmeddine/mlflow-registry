@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/GEOMATIC/mlflow-reg/mlruns/900674433850508596/77a76fff22bb4689b1f758319c98ca4a/artifacts
+end_time: 1730474817908
+entry_point_name: ''
+experiment_id: '900674433850508596'
+lifecycle_stage: active
+run_id: 77a76fff22bb4689b1f758319c98ca4a
+run_name: abrasive-toad-35
+run_uuid: 77a76fff22bb4689b1f758319c98ca4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730474428233
+status: 3
+tags: []
+user_id: GEOMATIC
