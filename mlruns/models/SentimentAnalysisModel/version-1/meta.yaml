@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730465039208
+current_stage: None
+description: null
+last_updated_timestamp: 1730465039208
+name: SentimentAnalysisModel
+run_id: 4c3dfcbc7c4449ada66f1f185f38adb0
+run_link: null
+source: file:///C:/Users/GEOMATIC/mlflow-reg/mlruns/959476728104323097/4c3dfcbc7c4449ada66f1f185f38adb0/artifacts/sentiment_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/GEOMATIC/mlflow-reg/mlruns/959476728104323097/4c3dfcbc7c4449ada66f1f185f38adb0/artifacts/sentiment_model
+user_id: null
+version: 1
