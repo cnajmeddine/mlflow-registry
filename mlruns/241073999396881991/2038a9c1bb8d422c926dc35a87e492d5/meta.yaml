@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/241073999396881991/2038a9c1bb8d422c926dc35a87e492d5/artifacts
+end_time: 1730454465773
+entry_point_name: ''
+experiment_id: '241073999396881991'
+lifecycle_stage: active
+run_id: 2038a9c1bb8d422c926dc35a87e492d5
+run_name: mlflow-quickstart
+run_uuid: 2038a9c1bb8d422c926dc35a87e492d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730454339595
+status: 3
+tags: []
+user_id: GEOMATIC
