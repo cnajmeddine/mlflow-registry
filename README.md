@@ -1,5 +1,3 @@
-Here’s a **README** markdown template for your GitHub repository to document your MLflow-based project. This README covers the purpose of the project, setup instructions, an overview of the pipeline, and an example of how to view and interpret results.
-
 ---
 
 # Sentiment Analysis with MLflow Tracking
